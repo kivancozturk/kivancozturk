@@ -38,19 +38,19 @@
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🤯 Learning C# & C++
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
+ - <i>with Python, JavaScript.</i>
    
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🔭 ImGui fanboi
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🛸 Probaly favorite thing is cars.
  
  - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/kivanctazi)
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
@@ -61,6 +61,7 @@
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Kivanctazi&&show_icons=true&theme=tokyonight"/>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kivanctazi&theme=tokyonight&langs_count=3&hide=html&line_height=30"/>  
   </a>
 
 </p>
@@ -71,6 +72,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cplas.svg" alt="csharp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
