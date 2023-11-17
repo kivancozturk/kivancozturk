@@ -21,12 +21,9 @@
 
 
 
-<p align="center">
-   [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/kivanctazi)
- </p>
  
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+   <i>⚡️I can't trust anyone as much as SQL </i>
   </h5>
  
  
