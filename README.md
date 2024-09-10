@@ -5,12 +5,12 @@
 
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Kivanc | 💻 Junior Developer | 🛸 Turkey  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Kivanc |  Junior Developer |  Turkiye  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  
 <br />
 <p align="center">
-  <h1> I'm 16 years old </h1>
+  <h1> About me </h1>
 </p>
  
 <h2 align='center'>Python, JavaScript, C++, C#, Lua.</h2> 
