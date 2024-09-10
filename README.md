@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi there, I'm <a href="https://hemant.codes">Kivanc</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <h1>Hi there, I'm <a href="https://instagram.com/kivancvpn">Kivanc</a> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
@@ -13,12 +13,12 @@
  
 <br />
 <p align="center">
-  <h3> I'm 16 years old </h3>
+  <h1> I'm 16 years old </h1>
 </p>
  
-<h1 align='center'>Python, JavaScript, C++, C#, Lua.</h1> 
-<h1 align='center'>3D Car Games, Car Render Projects.</h1> 
-<h1 align='center'>Blender and Photoshop.</h1> 
+<h2 align='center'>Python, JavaScript, C++, C#, Lua.</h2> 
+<h2 align='center'>3D Car Games, Car Render Projects.</h2> 
+<h2 align='center'>Blender and Photoshop.</h2> 
 
 <!--  -->
 
@@ -46,7 +46,6 @@
    
 <br />
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
