@@ -5,14 +5,6 @@
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/trinnwin"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
- </p>
-
 
 
 <div align="center">
@@ -30,15 +22,11 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 16 years old Junior developer</h3>
+  <h3> I'm 16 years old </h3>
 </p>
-
- - 🤯 Learning C# & C++
  
- - <i>with Python, JavaScript.</i>
+ - <i> Python, JavaScript, C++, C# .</i>
    
- - 🔭 ImGui fanboi
-
  - 🛸 Probaly favorite thing is cars.
  
  - I do fullstack and a bit of everything :heart:
@@ -68,11 +56,6 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cplas.png" alt="png" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
@@ -89,11 +72,6 @@
    
    
 <br />
-
-<h2 align="center">🤝 Support</h2>
-
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
