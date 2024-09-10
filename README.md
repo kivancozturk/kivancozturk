@@ -14,10 +14,6 @@
 
 
  
- <h5 align="center">
-   <i>⚡️I can't trust anyone as much as SQL </i>
-  </h5>
- 
  
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
@@ -25,17 +21,12 @@
   <h3> I'm 16 years old </h3>
 </p>
  
- - <i> Python, JavaScript, C++, C# .</i>
-   
- - 🛸 Probaly favorite thing is cars.
+ - Python, JavaScript, C++, C#.
  
- - I do fullstack and a bit of everything :heart:
+ - 3D Car Games, Car Render Projects.
+
+ - Blender and Photoshop.
  
- - All About living life at its best.
- 
- <p align="center">
-  <h4> Full Stack | Clean Code </h4>
-   </p>
 
 <!--  -->
 
@@ -53,22 +44,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cplas.png" alt="png" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
 
-
- ### - What i do
-
-
-<br />
-
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
    
    
 <br />
