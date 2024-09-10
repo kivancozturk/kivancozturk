@@ -10,22 +10,15 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Kivanc | 💻 Junior Developer | 🛸 Turkey  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-
-
- 
  
 <br />
 <p align="center">
   <h3> I'm 16 years old </h3>
 </p>
  
- - Python, JavaScript, C++, C#.
- 
- - 3D Car Games, Car Render Projects.
-
- - Blender and Photoshop.
- 
+<h1 align='center'>Python, JavaScript, C++, C#, Lua.</h1> 
+<h1 align='center'>3D Car Games, Car Render Projects.</h1> 
+<h1 align='center'>Blender and Photoshop.</h1> 
 
 <!--  -->
 
