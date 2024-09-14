@@ -8,7 +8,7 @@ I mainly work on Unity and Roblox, sharing as much as I can from my projects her
 
 #
 
-<img src="https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/about.png" alt="Stats" width="200px" height="60px">
+<img src="https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/about.png" alt="Stats" width="215px" height="60px">
 
 <details>
   <summary>Github Stats</summary>
