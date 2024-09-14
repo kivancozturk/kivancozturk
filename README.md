@@ -1,4 +1,4 @@
-# [<img src="https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/name.png" alt="Kıvanç" width="150px" height="80px">](https://kivanc.me)
+# [<img src="https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/name.png" alt="Kıvanç" width="150px" height="40px">](https://kivanc.me)
 
 Hi, I'm Kıvanç! I'm a game developer and 3D artist, primarily focused on modelling, design, and C# development.
 
