@@ -9,7 +9,7 @@ I mainly work on Unity and Roblox, sharing as much as I can from my projects her
 #
 
 <details>
-  <summary>(https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/stats.png)</summary>
+  (https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/stats.png)
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kivancozturk&theme=material-palenight&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancozturk&layout=compact&theme=material-palenight&count_private=true&hide_border=true)</a>
