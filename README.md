@@ -13,8 +13,8 @@ I mainly work on Unity and Roblox, sharing as much as I can from my projects her
 <details>
   <summary>Github Stats</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kivancozturk&theme=material-palenight&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancozturk&layout=compact&theme=material-palenight&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kivancozturk&theme=swift&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancozturk&layout=compact&theme=swift&count_private=true&hide_border=true)</a>
 </details>
 
 #
