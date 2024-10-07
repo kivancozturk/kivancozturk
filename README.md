@@ -19,4 +19,4 @@ Unity Game Developer, Design & Modelling & Texturing
 
 #
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=robloxstudio,unity,vscode,lua,javascript,blender,photoshop)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=unity,vscode,lua,javascript,blender,photoshop,substance,blockbench)
