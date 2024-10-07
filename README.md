@@ -1,8 +1,8 @@
 # [<img src="https://github.com/kivancozturk/kivancozturk/blob/main/source/images/main/name.png" alt="Kıvanç" width="150px" height="40px">](https://kivanc.me)
 
-Hi, I'm Kıvanç! I'm a game developer and 3D artist, primarily focused on modelling, design, and C# development.
+I'm Kıvanç!
 
-I mainly work on Unity and Roblox, sharing as much as I can from my projects here on GitHub!
+Unity Game Developer, Design & Modelling & Texturing
 
 [Visit kivanc.me](https://kivanc.me)
 
